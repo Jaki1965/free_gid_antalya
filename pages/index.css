@@ -12,3 +12,4 @@
 @import url(../blocks/banner/bunner.css);
 @import url(../blocks/banner/__top-message/bunner__top-message.css);
 @import url(../blocks/banner/__top-message/_yellow/bunner__top-message_yellow.css);
+@import url(../blocks/banner/__top-subtitle/bunner__top-subtitle.css);

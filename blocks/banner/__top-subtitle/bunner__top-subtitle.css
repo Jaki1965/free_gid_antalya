@@ -1,0 +1,10 @@
+.bunner__top-subtitle{
+  border: 1px solid red;
+  color: #ffff;
+  font-family: 'Lato';
+  font-weight: 900;
+  line-height: 31px;
+  font-size: 24px;
+  max-width: 548px;
+  min-height: 156px;
+}
