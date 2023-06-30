@@ -7,3 +7,12 @@
   src: 
     url(./Akrobat-Black.otf) format('truetype');
 }
+
+@font-face {
+  font-family:'Lato';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: 
+    url(./Lato-Black.ttf) format('truetype');
+}

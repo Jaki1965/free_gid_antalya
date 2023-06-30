@@ -10,3 +10,5 @@
 @import url(../blocks/header/__image-beach/header__image-beach.css);
 
 @import url(../blocks/banner/bunner.css);
+@import url(../blocks/banner/__top-message/bunner__top-message.css);
+@import url(../blocks/banner/__top-message/_yellow/bunner__top-message_yellow.css);

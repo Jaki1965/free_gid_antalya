@@ -1,12 +1,13 @@
 .bunner {
   border: 2px solid black;
-  width: 1148px;
-  height: 595px;
+  width: 1028px;
+  /* height: 475px; */
   background: #00000035;
   backdrop-filter: blur(17.5px);
   position: absolute;
   left: 572px;
   top: calc(50% - 595px/2 + 0.5px);
+  padding: 60px;
 }
 
 
