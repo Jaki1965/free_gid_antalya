@@ -10,8 +10,14 @@
 @import url(../blocks/header/__image-beach/header__image-beach.css);
 
 @import url(../blocks/banner/bunner.css);
+@import url(../blocks/banner/__top-footer/bunner__top-footer.css);
+@import url(../blocks/banner/__top-title/bunner__top-title.css);
 @import url(../blocks/banner/__top-message/bunner__top-message.css);
 @import url(../blocks/banner/__top-message/_yellow/bunner__top-message_yellow.css);
+@import url(../blocks/banner/__down-left/bunner__down-left.css);
 @import url(../blocks/banner/__down-right/bunner__down-right.css);
+
+
+
 
 @import url(../blocks/button/button.css);
