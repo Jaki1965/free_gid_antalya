@@ -1,0 +1,11 @@
+.where__subtitle {
+  border: 1px solid green;
+  position: relative;
+  z-index: 3;
+  max-width: 982px;
+  height: 85px;
+  font-family: 'Lato';
+  line-height: 26px;
+  font-size: 20px;
+  font-weight: 700;
+}
