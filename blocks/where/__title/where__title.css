@@ -1,0 +1,13 @@
+.where__title{
+  margin: 0;
+  position: relative;
+  color: #333333;
+  text-transform: uppercase;
+  z-index: 2;
+  font-family: 'Akrobat';
+  font-size: 96px;
+  line-height: 125px;
+  font-weight: 900;
+  /* padding-top: 120px;
+  padding-left: 200px; */
+}
