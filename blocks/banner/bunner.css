@@ -1,14 +1,24 @@
 .bunner {
-  border: 2px solid black;
   width: 1028px;
-  /* height: 475px; */
   background: #00000035;
   backdrop-filter: blur(17.5px);
   position: absolute;
   left: 572px;
   top: 163px;
-  /* top: calc(50% - 595px/2 + 0.5px); */
+  transition: 0.7s;
   padding: 60px;
 }
 
 
+.bunner:hover {
+  background: blue;
+  border-radius: 20px;
+  left: 670px;
+  top: 110px;
+
+}
+
+.bunner:hover + .animation-pdf {
+  transform: translate(600px, 560px) rotate(730deg) scale(2);
+  opacity: 100%;
+}
