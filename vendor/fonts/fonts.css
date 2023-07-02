@@ -16,3 +16,12 @@
   src: 
     url(./Lato-Black.ttf) format('truetype');
 }
+
+@font-face {
+  font-family:'Lato';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: 
+    url(./Lato-Bold.ttf) format('truetype');
+}
