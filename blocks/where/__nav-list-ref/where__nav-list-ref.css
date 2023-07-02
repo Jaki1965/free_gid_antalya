@@ -1,4 +1,5 @@
 .where__nav-list-ref {
+  margin: 0;
   text-decoration: none;
   text-transform: uppercase;
   font-family: 'Akrobat';
@@ -8,4 +9,6 @@
   color: #333333;
   display: flex;
   flex-direction: row;
+  gap: 10px;
+  align-items: center;
 }
