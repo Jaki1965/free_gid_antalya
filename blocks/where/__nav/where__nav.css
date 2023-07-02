@@ -1,0 +1,9 @@
+.where__nav {
+  border: 1px solid red;
+  position:relative;
+  left:200px;
+  top: 250px;
+  width: 730px;
+  height: 280px;
+
+}
