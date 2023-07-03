@@ -1,5 +1,9 @@
 .where__nav-list-element-subtitle {
   margin: 0;
-  
+  /* background: rgb(53, 190, 115); */
   /* border: 1px solid orange; */
+}
+
+.where__nav-list-element-subtitle:hover {
+  background: rgb(53, 190, 115);
 }

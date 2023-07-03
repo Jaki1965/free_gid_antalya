@@ -2,3 +2,7 @@
   /* border: 1px solid green; */
   margin-bottom: 1px;
 }
+
+.where__nav-list-element:hover {
+  background: rgb(53, 190, 115);
+}
