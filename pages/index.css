@@ -42,7 +42,12 @@
 /* @import url(../blocks/why/__title/why__title.css); */
 @import url(../blocks/why/__banner/why__banner.css);
 @import url(../blocks/why/__secret/why__secret.css);
-
+@import url(../blocks/why/__footer/why__footer.css);
+@import url(../blocks/why/__banner-title/why__banner-title.css);
+@import url(../blocks/why/__banner-title/_red/why__banner-title_red.css);
+@import url(../blocks/why/__banner-subtitle/why__banner-subtitle.css);
+@import url(../blocks/why/__footer-title/why__footer-title.css);
+@import url(../blocks/why/__footer-title/_red/why__footer-title_red.css);
 
 
 @import url(../blocks/map/map.css);

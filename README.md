@@ -22,6 +22,7 @@
   - с левого края сайта из opcity 0 появляется значек указывающе руки и плавно двигается к картинке svg - указывая на пурк меню
   (commit 16)
 * Свертана основа блока why: background, картинка (позиционированы абсолютно). Сделан шаблон элемента - why__banner. Нужно сверстать шаблон элемента why__footer. (commit 17)
+* сверстаны заголовки why__banner и why__footer. (commit 18)
 
 
 * [Ссылка на макет Figma](https://www.figma.com/file/RumZAqukPt8Pc9O6R5qdCf/%D0%91%D0%95%D0%A1%D0%9F%D0%9B%D0%90%D0%A2%D0%9D%D0%AB%D0%99-PDF-%D0%93%D0%98%D0%94-%D0%9F%D0%9E-%D0%90%D0%9B%D0%90%D0%9D%D0%98%D0%98?type=design&node-id=0-1&mode=design&t=C6YXRd8g64cz8K7Q-0)

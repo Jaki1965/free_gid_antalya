@@ -1,9 +1,13 @@
 .where__background-image {
-  /* border: 2px solid blueviolet; */
-  /* position: relative; */
+  border: 2px solid blueviolet;
+  position: relative;
+  /* top: 0px;
+  left: 0px; */
   /* top: 5px;
   left: 5px; */
   z-index: -1;
+  /* margin-right: auto;
+  margin-left: auto; */
   width: 100%;
   height: 100%;
   background-image: url(../../../images/background_block_where.jpg);
