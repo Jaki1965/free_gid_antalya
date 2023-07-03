@@ -1,0 +1,8 @@
+.where__background-image_img {
+  border: 1px solid red;
+  position: absolute;
+  z-index: -1;
+  
+  top: -80px;
+  left: 0;
+}
