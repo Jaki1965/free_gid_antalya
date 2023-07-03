@@ -2,7 +2,7 @@
 
   margin: 0;
   /* position: absolute; */
-  position: relative;
+  /* position: relative; */
   color: #333333;
   text-transform: uppercase;
   z-index: 2;
@@ -10,8 +10,12 @@
   font-size: 96px;
   line-height: 125px;
   font-weight: 900;
-  top: 200px;
-  left: 200px
+  padding-top: 120px;
+  /* padding-left: 200px; */
+  /* margin-top: 200px;
+  margin-left: 200px; */
+  /* top: 200px;
+  left: 200px */
   /* top: 120px;
   left: 200px; */
   /* padding-top: 120px;
